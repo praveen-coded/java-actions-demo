@@ -21,7 +21,7 @@
           run: java -version
 
         - name: compile java file
-          run: javac Helloworls.java
+          run: javac Helloworld.java
 
         - name: Run Java Application
           run:  java HelloWorld
